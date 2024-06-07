@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s25717\\source\\repos\\APBD_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\s25717\\AppData\\Local\\Temp\\.vsdbgsrc\\60fae5faa6731e61c9719e28f349f335032b59cfa7a74ea6e88aabfb7be00004\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\patientresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\patientresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\prescriptionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\prescriptionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\dto\\prescriptionmedicamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\dto\\prescriptionmedicamentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\apbd_10.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\apbd_10.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\models\\prescriptionmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\models\\prescriptionmedicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|c:\\users\\s25717\\source\\repos\\apbd_10\\apbd_10\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE76691-D3AE-44EC-A721-F3AD933D92EF}|APBD_10\\APBD_10.csproj|solutionrelative:apbd_10\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "APBD_10\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:54:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\AppData\\Local\\Temp\\.vsdbgsrc\\60fae5faa6731e61c9719e28f349f335032b59cfa7a74ea6e88aabfb7be00004\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\60fae5faa6731e61c9719e28f349f335032b59cfa7a74ea6e88aabfb7be00004\\Program.cs",
+              "ToolTip": "C:\\Users\\s25717\\AppData\\Local\\Temp\\.vsdbgsrc\\60fae5faa6731e61c9719e28f349f335032b59cfa7a74ea6e88aabfb7be00004\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\60fae5faa6731e61c9719e28f349f335032b59cfa7a74ea6e88aabfb7be00004\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:38:42.337Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrescriptionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PrescriptionRequestDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\PrescriptionRequestDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PrescriptionRequestDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\PrescriptionRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:47:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\LoginUserDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\LoginUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:24.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DbContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DbContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DbContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "APBD_10\\DbContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:41:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "APBD_10\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:32:53.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "APBD_10\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAA9wA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:32:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Startup.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Startup.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Startup.cs",
+              "RelativeToolTip": "APBD_10\\Startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:35:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Program.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Program.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Program.cs",
+              "RelativeToolTip": "APBD_10\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:57:32.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\RefreshTokenRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\TokenResponseDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\TokenResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PatientResponseDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\PatientResponseDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PatientResponseDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\PatientResponseDto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA8wB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:47:57.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\RegisterUserDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:43.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrescriptionMedicamentDto.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PrescriptionMedicamentDto.cs",
+              "RelativeDocumentMoniker": "APBD_10\\DTO\\PrescriptionMedicamentDto.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\DTO\\PrescriptionMedicamentDto.cs",
+              "RelativeToolTip": "APBD_10\\DTO\\PrescriptionMedicamentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:47:41.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Doctor.cs",
+              "RelativeToolTip": "APBD_10\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:21.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrescriptionMedicament.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\PrescriptionMedicament.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Models\\PrescriptionMedicament.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\PrescriptionMedicament.cs",
+              "RelativeToolTip": "APBD_10\\Models\\PrescriptionMedicament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "APBD_10",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\APBD_10.csproj",
+              "RelativeDocumentMoniker": "APBD_10\\APBD_10.csproj",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\APBD_10.csproj",
+              "RelativeToolTip": "APBD_10\\APBD_10.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T13:34:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APBD_10\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\appsettings.Development.json",
+              "RelativeToolTip": "APBD_10\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T13:25:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Patient.cs",
+              "RelativeToolTip": "APBD_10\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:09.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Models\\Medicament.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Medicament.cs",
+              "RelativeToolTip": "APBD_10\\Models\\Medicament.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:31.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "APBD_10\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_10\\APBD_10\\Models\\Prescription.cs",
+              "RelativeToolTip": "APBD_10\\Models\\Prescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:45:42.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
